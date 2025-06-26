@@ -2,9 +2,14 @@
   "name": "under-the-sea-theme",
   "displayName": "Under the Sea Theme",
   "description": "Mermaid inspired color theme",
+  "publisher": "danicaj3w",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.101.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danicaj3w/under-the-sea-theme.git"
   },
   "categories": [
     "Themes"
